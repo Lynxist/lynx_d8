@@ -1,5 +1,7 @@
 ## [Preview](https://youtu.be/aa6fDMLw-n0)
 
+Location: vector3(-715.11, -360.66, 37.79)
+
 Adding the clothing will be up to you (can't offer support on this)
 
 How to add **schwarzer_livery11** (Can offer support if required)
